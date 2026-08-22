@@ -1,0 +1,3 @@
+mitmproxy
+python-telegram-bot
+requests
